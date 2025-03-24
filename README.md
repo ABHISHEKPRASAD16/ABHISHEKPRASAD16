@@ -44,9 +44,11 @@ I thrive on uncovering hidden stories in datasets—whether it's through statist
 ### **Machine Learning & Analytics**
 - **scikit-learn:** [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 - **TensorFlow:** [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-- Predictive Analytics
+- **Predictive Analytics:**  
+  [![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-6A1B9A?style=for-the-badge)](https://en.wikipedia.org/wiki/Predictive_analytics)
 
 ---
+
 
 ## 💡 Soft Skills
 
