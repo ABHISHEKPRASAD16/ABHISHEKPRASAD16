@@ -1,9 +1,8 @@
-# Hi, I'm Abhishek Prasad 👋
+# Hi, I'm [Your Name] 👋
 
 <div align="center">
-  <!-- Your attached profile picture -->
-  <img src="![image](https://github.com/user-attachments/assets/e93a1145-6ef5-49da-8ec1-7e77917922e8)
-" alt="Profile Picture" width="150" style="border-radius:50%">
+  <!-- Your animated GIF profile picture -->
+  <img src="/attachments/HarVouYPnVgwpsDtR8sRr.png" alt="Profile Picture" width="150" style="border-radius:50%">
 </div>
 
 I'm a passionate **Data Scientist** and **Data Analyst** dedicated to turning complex data into actionable insights. I combine technical expertise with creative problem-solving and am excited about exploring new challenges in data-driven environments.
@@ -12,7 +11,7 @@ I'm a passionate **Data Scientist** and **Data Analyst** dedicated to turning co
 
 ## 🔎 About Me
 
-I love diving deep into data puzzles to uncover stories that can drive informed business decisions. With hands-on experience in programming, data visualization, cloud computing, and machine learning, I consistently bridge the gap between technical precision and creative insight.
+I love diving deep into data puzzles to uncover stories that drive informed business decisions. With hands-on experience in programming, data visualization, cloud computing, and machine learning, I bridge the gap between technical precision and creative insight.
 
 ---
 
@@ -72,7 +71,7 @@ I love diving deep into data puzzles to uncover stories that can drive informed 
 
 ## 💡 Soft Skills
 
-I strongly believe that technical work is enriched by strong communication and the ability to work collaboratively. Some of my vital soft skills include:
+I believe that technical expertise grows deeper through strong collaboration and communication. Here are some soft skills that enhance my technical work:
 
 - **Problem-Solving:**  
   ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-0066cc?style=for-the-badge)
@@ -89,7 +88,7 @@ I strongly believe that technical work is enriched by strong communication and t
 
 ## 🎨 My Work Environment
 
-A well-designed workspace fuels both creativity and productivity. Here’s a glimpse of a typical creative setup:
+A creative and focused work environment is key to productivity. Below is a representation of a person working on their laptop to set the tone for my workflow:
 
 ![Person Working with Laptop](https://via.placeholder.com/600x300?text=Person+Working+with+Laptop)
 
@@ -101,8 +100,4 @@ A well-designed workspace fuels both creativity and productivity. Here’s a gli
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
 
-Feel free to explore my projects. I’m always excited to connect over innovative data solutions and cutting-edge analyses.
-
----
-
-*Thanks for stopping by my profile!*
+Thank you for visiting my profile. Explore my projects and insights, and feel free to reach out if you'd like to collaborate on data-driven innovations!
