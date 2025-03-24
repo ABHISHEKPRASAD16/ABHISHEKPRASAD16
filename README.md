@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Abhishek Prasad 👋
 
 <div align="center">
   <!-- Profile GIF showcasing data analysis in action -->
@@ -21,12 +21,15 @@ I thrive on uncovering hidden stories in datasets—whether it's through statist
 - **Python:** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - **R:** [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 - **SQL:** [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
-- APIs & Web Scraping
+- **APIs:**  
+  [![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+- **Web Scraping:**  
+  [![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4d79ff?style=for-the-badge)](https://en.wikipedia.org/wiki/Web_scraping)
 
 ### **Data Tools & Visualization**
 - **Power BI:** [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 - **Tableau:** [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-- **Microsoft Excel**
+- **Microsoft Excel:** [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### **Databases**
 - **MySQL:** [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -57,8 +60,7 @@ I thrive on uncovering hidden stories in datasets—whether it's through statist
 
 ## 📫 Let's Connect
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [abhishekprasad160700@gmail.com](abhishekprasad160700@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Portfolio Website](https://yourwebsite.com)
 
 Thank you for visiting my profile. Let's connect, collaborate, and transform data into impactful stories!
