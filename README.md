@@ -61,6 +61,6 @@ I thrive on uncovering hidden stories in datasets—whether it's through statist
 ## 📫 Let's Connect
 
 - **Email:** [abhishekprasad160700@gmail.com](abhishekprasad160700@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [AbhishekPrasad](https://www.linkedin.com/in/abhishek-prasa-d)
 
 Thank you for visiting my profile. Let's connect, collaborate, and transform data into impactful stories!
