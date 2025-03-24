@@ -1,20 +1,17 @@
 # Hi, I'm [Your Name] 👋
 
 <div align="center">
-  <!-- Video used as the profile media -->
-  <video width="150" autoplay muted loop style="border-radius:50%;">
-    <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/young-boy-working-on-data-analysis-laptop-animation-download-in-lottie-json-gif-static-svg-file-formats--analyst-job-analytics-professional-jobs-pack-business-animations-8883749.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <!-- Profile GIF showcasing data analysis in action -->
+  <img src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" alt="Data Analysis in Action" width="150" style="border-radius:50%">
 </div>
 
-I'm a passionate **Data Scientist** and **Data Analyst** committed to turning complex data into actionable insights. I merge technical precision with creative problem-solving to drive informed decision-making.
+I'm a passionate **Data Scientist** and **Data Analyst** with a strong focus on transforming raw data into clear, actionable insights. By merging technical skills with creative problem-solving, I strive to empower businesses and teams through data-driven decision-making.
 
 ---
 
 ## 🔎 About Me
 
-I thrive by uncovering actionable stories hidden within raw data. Whether through statistical analysis, data visualization, or predictive modeling, I transform datasets into strategic insights that empower businesses and teams.
+I thrive on uncovering hidden stories in datasets—whether it's through statistical analysis, data visualization, or predictive modeling. My goal is to make complex data accessible and meaningful to everyone.
 
 ---
 
@@ -24,7 +21,7 @@ I thrive by uncovering actionable stories hidden within raw data. Whether throug
 - **Python:** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - **R:** [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 - **SQL:** [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
-- **APIs & Web Scraping**
+- APIs & Web Scraping
 
 ### **Data Tools & Visualization**
 - **Power BI:** [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -44,7 +41,7 @@ I thrive by uncovering actionable stories hidden within raw data. Whether throug
 ### **Machine Learning & Analytics**
 - **scikit-learn:** [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 - **TensorFlow:** [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-- **Predictive Analytics**
+- Predictive Analytics
 
 ---
 
@@ -64,4 +61,4 @@ I thrive by uncovering actionable stories hidden within raw data. Whether throug
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Portfolio:** [Your Portfolio Website](https://yourwebsite.com)
 
-Thank you for visiting my profile. Let's connect and transform data into impactful stories!
+Thank you for visiting my profile. Let's connect, collaborate, and transform data into impactful stories!
