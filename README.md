@@ -1,8 +1,9 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Abhishek Prasad 👋
 
 <div align="center">
   <!-- Your attached profile picture -->
-  <img src="./RvXgzpuo2pEA291fBNEfb.jpeg" alt="Profile Picture" width="150" style="border-radius:50%">
+  <img src="![image](https://github.com/user-attachments/assets/e93a1145-6ef5-49da-8ec1-7e77917922e8)
+" alt="Profile Picture" width="150" style="border-radius:50%">
 </div>
 
 I'm a passionate **Data Scientist** and **Data Analyst** dedicated to turning complex data into actionable insights. I combine technical expertise with creative problem-solving and am excited about exploring new challenges in data-driven environments.
