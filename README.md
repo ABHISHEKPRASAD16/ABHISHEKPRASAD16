@@ -1,8 +1,11 @@
 # Hi, I'm [Your Name] 👋
 
 <div align="center">
-  <!-- Animated profile picture GIF -->
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Profile Picture" width="150" style="border-radius:50%">
+  <!-- Video used as the profile media -->
+  <video width="150" autoplay muted loop style="border-radius:50%;">
+    <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/young-boy-working-on-data-analysis-laptop-animation-download-in-lottie-json-gif-static-svg-file-formats--analyst-job-analytics-professional-jobs-pack-business-animations-8883749.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 I'm a passionate **Data Scientist** and **Data Analyst** committed to turning complex data into actionable insights. I merge technical precision with creative problem-solving to drive informed decision-making.
@@ -11,7 +14,7 @@ I'm a passionate **Data Scientist** and **Data Analyst** committed to turning co
 
 ## 🔎 About Me
 
-I thrive by uncovering stories hidden within data. Whether it’s through statistical analysis, data visualization, or predictive modeling, I love transforming raw datasets into strategic solutions that empower businesses and teams.
+I thrive by uncovering actionable stories hidden within raw data. Whether through statistical analysis, data visualization, or predictive modeling, I transform datasets into strategic insights that empower businesses and teams.
 
 ---
 
@@ -21,8 +24,7 @@ I thrive by uncovering stories hidden within data. Whether it’s through statis
 - **Python:** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - **R:** [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 - **SQL:** [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
-- **APIs & Web Scraping:**  
-  *(Using various tools & libraries to extract and integrate data)*
+- **APIs & Web Scraping**
 
 ### **Data Tools & Visualization**
 - **Power BI:** [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
@@ -56,18 +58,10 @@ I thrive by uncovering stories hidden within data. Whether it’s through statis
 
 ---
 
-## 🎨 My Work Environment
-
-A dynamic workspace inspires innovation and data-driven creativity. Here’s a glimpse of a data-centric work environment:
-
-![Working on Data](https://media.giphy.com/media/26tPplGWjN0xLyRK0/giphy.gif)
-
----
-
 ## 📫 Let's Connect
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Portfolio:** [Your Portfolio Website](https://yourwebsite.com)
 
-Thank you for visiting my profile. I’m excited to collaborate on projects, share insights, and drive meaningful data innovations!
+Thank you for visiting my profile. Let's connect and transform data into impactful stories!
