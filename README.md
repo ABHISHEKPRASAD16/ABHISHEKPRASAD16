@@ -65,5 +65,4 @@ I thrive on uncovering hidden stories in datasets—whether it's through statist
 - **Email:** [abhishekprasad160700@gmail.com](abhishekprasad160700@gmail.com)
 - **LinkedIn:** [AbhishekPrasad](https://www.linkedin.com/in/abhishek-prasa-d)
 
--“Data is the new oil, and I’m here to refine it!”
--Thank you for visiting my profile. Let's connect, collaborate, and transform data into impactful stories!
+“Data is the new oil, and I’m here to refine it!”. Thank you for visiting my profile. Let's connect, collaborate, and transform data into impactful stories!
