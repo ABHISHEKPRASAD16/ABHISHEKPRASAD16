@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Profile GIF showcasing data analysis in action -->
-  <img src="https://indoanalytica.com/static/images/data-science-1.gif" alt="Data Analysis in Action" width="150" style="border-radius:50%">
+  <img src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292" alt="Data Analysis in Action" width="150" style="border-radius:50%">
 </div>
 
 I'm a passionate **Data Scientist** and **Data Analyst** with a strong focus on transforming raw data into clear, actionable insights. By merging technical skills with creative problem-solving, I strive to empower businesses and teams through data-driven decision-making.
